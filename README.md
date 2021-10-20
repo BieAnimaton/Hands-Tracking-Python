@@ -6,13 +6,17 @@ This project tracks your hand on camera (max: 2) with OpenCV library.
 - Python programming to train skills.
 
 ## Image :camera:
-![hand4](https://user-images.githubusercontent.com/52220244/138112877-d49b8992-a818-4aa1-9863-3ba478dbd885.JPG)
-
-![hand1](https://user-images.githubusercontent.com/52220244/138112884-8ef93c51-7ec9-4832-a2db-7294d8fb9934.JPG)
-
-![hand2](https://user-images.githubusercontent.com/52220244/138112887-48ff29ef-1c2c-4c6a-9dcb-6ce0c01da767.JPG)
-
-![hand3](https://user-images.githubusercontent.com/52220244/138112892-1f099c5d-fd3b-47c5-87b2-7f9fb7a633e4.JPG)
+<div>
+    <div align="center">
+        <img src="https://user-images.githubusercontent.com/52220244/138112877-d49b8992-a818-4aa1-9863-3ba478dbd885.JPG">
+        <img width="176" src="https://user-images.githubusercontent.com/52220244/138112887-48ff29ef-1c2c-4c6a-9dcb-6ce0c01da767.JPG">
+    </div>
+    <hr>
+    <div align="center">
+        <img width="165" src="https://user-images.githubusercontent.com/52220244/138112884-8ef93c51-7ec9-4832-a2db-7294d8fb9934.JPG">
+        <img width="205" src="https://user-images.githubusercontent.com/52220244/138112892-1f099c5d-fd3b-47c5-87b2-7f9fb7a633e4.JPG">
+    </div>
+</div>
 
 ## How Install :bookmark_tabs:
 ```
